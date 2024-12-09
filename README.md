@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently Working on MERN stack.<br>🤝 Looking Help on Developing Modern Front-End for Banking App.<br>🌴 Currently Learning JWT Authentication.<br>☁️ Ask me about Python Automations.<br>⚡️ Fun fact: I am Lazy but Intelligent.
+🔭 Currently Working on MERN stack.<br>🤝 Looking Help on Developing Modern Front-End for a Full Stack Banking App.<br>🌴 Currently Learning JWT Authentication.<br>☁️ Ask me about Python Automations.<br>⚡️ Fun fact: I am Lazy but Intelligent.
 
 
 ## 🌐 Socials:
